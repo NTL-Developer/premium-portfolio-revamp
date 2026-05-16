@@ -20,7 +20,6 @@ import {
   Grid3x3,
   ShieldCheck,
   Siren,
-  Cpu as Chip,
   Scale,
 } from "lucide-react";
 
