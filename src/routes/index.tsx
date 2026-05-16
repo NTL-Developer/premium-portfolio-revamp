@@ -38,7 +38,7 @@ type Project = {
 const projects: Project[] = [
   { title: "AI Paw Protector", category: "Projeto de Vida", description: "Solução inteligente focada em proteção animal usando visão computacional.", icon: ShieldCheck, accent: "from-sky-400/30 to-blue-600/10" },
   { title: "SOStatus", category: "App Web", description: "Plataforma de emergência e suporte para alunos da STATUS.", icon: Siren, accent: "from-rose-400/30 to-red-600/10" },
-  { title: "Micro:bit", category: "Hardware", description: "Projetos educacionais e automação com placa Micro:bit.", icon: Chip, accent: "from-emerald-400/30 to-teal-600/10" },
+  { title: "Micro:bit", category: "Hardware", description: "Projetos educacionais e automação com placa Micro:bit.", icon: Cpu, accent: "from-emerald-400/30 to-teal-600/10" },
   { title: "Semáforo Arduino", category: "Eletrônica", description: "Simulação de semáforo controlado por Arduino com lógica em tempo real.", icon: TrafficCone, accent: "from-amber-400/30 to-orange-600/10" },
   { title: "Jogo da Velha STATUS", category: "Web Game", description: "Clássico jogo da velha com IA e identidade visual da STATUS.", icon: Grid3x3, accent: "from-indigo-400/30 to-blue-600/10" },
   { title: "Relógio HTML", category: "Front-end", description: "Relógio digital responsivo construído em HTML, CSS e JavaScript.", icon: Clock, accent: "from-cyan-400/30 to-sky-600/10" },
